@@ -3,6 +3,6 @@ aiohttp~=3.9
 # used for colored logging and the colored banner
 colorlog~=6.8
 # used for enumerate objects
-fastenum~=1.0.4
+fastenum~=1.1.1
 # extensions for the typing module
 typing-extensions~=4.10.0
